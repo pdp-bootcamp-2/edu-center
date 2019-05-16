@@ -1,2 +1,0 @@
-# edu-center
-Education Center
