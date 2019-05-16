@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e354cdc7-0d3f-4de3-8a1e-d2835a3b3d0f" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/src/main/java/uz/pdp/entity/Farafuri.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/key" beforeDir="false" afterPath="$PROJECT_DIR$/key" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/key.pub" beforeDir="false" afterPath="$PROJECT_DIR$/key.pub" afterDir="false" />
+>>>>>>> eda64cb16df69d0545146df4a202eabf7c066a60
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,8 +23,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/uz/pdp/entity/Ilhom.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="136">
               <caret line="8" column="19" lean-forward="true" selection-start-line="6" selection-end-line="8" selection-end-column="19" />
+=======
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="12" selection-end-column="25" />
+>>>>>>> eda64cb16df69d0545146df4a202eabf7c066a60
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -27,7 +38,11 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/src/main/java/uz/pdp/entity/Navbahor.java">
+=======
+        <entry file="file://$PROJECT_DIR$/src/main/java/uz/pdp/entity/Nurlan.java">
+>>>>>>> eda64cb16df69d0545146df4a202eabf7c066a60
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
               <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
@@ -55,7 +70,11 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/uz/pdp/Ilhom.java" />
         <option value="$PROJECT_DIR$/src/main/java/uz/pdp/entity/Ilhom.java" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/main/java/uz/pdp/entity/Navbahor.java" />
+=======
+        <option value="$PROJECT_DIR$/src/main/java/uz/pdp/entity/Nurlan.java" />
+>>>>>>> eda64cb16df69d0545146df4a202eabf7c066a60
       </list>
     </option>
   </component>
@@ -78,15 +97,14 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="10" />
     <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+    <option name="width" value="1347" />
+    <option name="height" value="689" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -141,12 +159,17 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557990456137" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557987927769" />
+>>>>>>> eda64cb16df69d0545146df4a202eabf7c066a60
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -183,18 +206,30 @@
       <option name="presentableId" value="Default" />
       <updated>1557985195668</updated>
       <workItem from="1557985197170" duration="2096000" />
+<<<<<<< HEAD
       <workItem from="1557987868652" duration="1261000" />
+=======
+      <workItem from="1557987655017" duration="728000" />
+>>>>>>> eda64cb16df69d0545146df4a202eabf7c066a60
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="3357000" />
+=======
+    <option name="totallyTimeSpent" value="2824000" />
+>>>>>>> eda64cb16df69d0545146df4a202eabf7c066a60
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22692889" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22684564" />
+>>>>>>> eda64cb16df69d0545146df4a202eabf7c066a60
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -252,15 +287,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/uz/pdp/entity/Ilhom.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="136">
           <caret line="8" column="19" lean-forward="true" selection-start-line="6" selection-end-line="8" selection-end-column="19" />
+=======
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="12" selection-end-column="25" />
+>>>>>>> eda64cb16df69d0545146df4a202eabf7c066a60
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/main/java/uz/pdp/entity/Navbahor.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/java/uz/pdp/entity/Farafuri.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/uz/pdp/entity/Nurlan.java">
+>>>>>>> eda64cb16df69d0545146df4a202eabf7c066a60
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
