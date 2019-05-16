@@ -11,5 +11,8 @@ public class Khurshed {
     private String name;
     private String familyName;
     private String phone;
+    private String address;
+    private String height;
+    private String weight;
     
 }
