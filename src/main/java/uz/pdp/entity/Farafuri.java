@@ -9,4 +9,5 @@ public class Farafuri {
     private String name;
     private String familyname;
     private String phone;
+    private String map;
 }
